@@ -1,0 +1,12 @@
+
+body {
+          background-image: url(resources/images/laptop-1478822_1280.jpg);
+          background-size: cover;
+          background-attachment: fixed;
+          background-position: center;
+        }
+    button {
+            background-color: unset;
+            border: unset;
+            color: white;
+}
